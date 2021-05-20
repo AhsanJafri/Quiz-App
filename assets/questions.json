@@ -1,0 +1,228 @@
+{
+    "questions": [
+        {
+            "questionText": "Far-right protestors tried to storm the Parliament building in which country?",
+            "answers": [
+                {
+                    "label": "Australia",
+                    "value": 0
+                },
+                {
+                    "label": "Britain",
+                    "value": 0
+                },
+                {
+                    "label": "France",
+                    "value": 0
+                },
+                {
+                    "label": "Germany",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "questionText": "Why did Shinzo Abe, prime minister of Japan, resign from office?",
+            "answers": [
+                {
+                    "label": "An extramarital affair",
+                    "value": 0
+                },
+                {
+                    "label": "Fraud",
+                    "value": 0
+                },
+                {
+                    "label": "Illness",
+                    "value": 1
+                },
+                {
+                    "label": "Protests",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "questionText": "What did two commercial jet pilots reported seeing in the busy airspace near Los Angeles International Airport?",
+            "answers": [
+                {
+                    "label": "An attack drone",
+                    "value": 0
+                },
+                {
+                    "label": "A man with a jetpack",
+                    "value": 1
+                },
+                {
+                    "label": "A girl attached to a kite",
+                    "value": 0
+                },
+                {
+                    "label": "A U.F.O.",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "questionText": "After more than seven decades of absence, jaguars are being reintroduced into the wetlands of which country?",
+            "answers": [
+                {
+                    "label": "Argentina",
+                    "value": 1
+                },
+                {
+                    "label": "Belize",
+                    "value": 0
+                },
+                {
+                    "label": "Colombia",
+                    "value": 0
+                },
+                {
+                    "label": "Mexico",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": "What is the next Prime Number after 13?",
+            "answers": [
+                {
+                    "label": "17",
+                    "value": 1
+                },
+                {
+                    "label": "18",
+                    "value": 0
+                },
+                {
+                    "label": "19",
+                    "value": 0
+                },
+                {
+                    "label": "20",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": "How many seconds are there in one hour?",
+            "answers": [
+                {
+                    "label": "3600",
+                    "value": 1
+                },
+                {
+                    "label": "37600",
+                    "value": 0
+                },
+                {
+                    "label": "3800",
+                    "value": 0
+                },
+                {
+                    "label": "3000",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": "Who discovered + and – ?",
+            "answers": [
+                {
+                    "label": "Johannes Widman",
+                    "value": 1
+                },
+                {
+                    "label": "Johany",
+                    "value": 0
+                },
+                {
+                    "label": "Johan Thomsan",
+                    "value": 0
+                },
+                {
+                    "label": "Johons",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": "Roman Number of 40?",
+            "answers": [
+                {
+                    "label": "XL",
+                    "value": 1
+                },
+                {
+                    "label": "XX",
+                    "value": 0
+                },
+                {
+                    "label": "XXX",
+                    "value": 0
+                },
+                {
+                    "label": "X",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": "The total number of dots on a dice?",
+            "answers": [
+                {
+                    "label": "21",
+                    "value": 1
+                },
+                {
+                    "label": "20",
+                    "value": 0
+                },
+                {
+                    "label": "22",
+                    "value": 0
+                },
+                {
+                    "label": "25",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": " Where was Abacus invented?",
+            "answers": [
+                {
+                    "label": "China",
+                    "value": 1
+                },
+                {
+                    "label": "India",
+                    "value": 0
+                },
+                {
+                    "label": "USA",
+                    "value": 0
+                },
+                {
+                    "label": "England",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": " Value of cos 360°?",
+            "answers": [
+                {
+                    "label": "5",
+                    "value": 0
+                },
+                {
+                    "label": "1",
+                    "value": 1
+                },
+                {
+                    "label": "2",
+                    "value": 0
+                },
+                {
+                    "label": "4",
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}
