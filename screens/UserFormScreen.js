@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, Button, StyleSheet,StatusBar, KeyboardAvoidingView, TouchableWithoutFeedback, ToastAndroid } from 'react-native';
+import { View, Text, Button, StyleSheet,StatusBar, KeyboardAvoidingView, TouchableWithoutFeedback,  } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { ScrollView, TextInput } from 'react-native-gesture-handler';
 import Colors from '../constants/Colors';
@@ -102,11 +102,13 @@ const UserFormScreen = (props) => {
     }
 
     const showSubmitToast = () => {
-        ToastAndroid.show("Details saved", ToastAndroid.SHORT);
+        alert('Details saved')
+        // ToastAndroid.show("Details saved", ToastAndroid.SHORT);
     };
 
     const showQuizToast = () => {
-        ToastAndroid.show("Please Submit the form first", ToastAndroid.SHORT);
+        //alert('Please Submit the form first')
+        // ToastAndroid.show("Please Submit the form first", ToastAndroid.SHORT);
     };
 
     return (

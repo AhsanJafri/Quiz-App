@@ -223,6 +223,186 @@
                     "value": 0
                 }
             ]
+        },{
+            "questionText": "Ctrl, Shift and Alt are called .......... keys?",
+            "answers": [
+                {
+                    "label": "modifier",
+                    "value": 1
+                },
+                {
+                    "label": "function",
+                    "value": 0
+                },
+                {
+                    "label": "adjustment",
+                    "value": 0
+                },
+                {
+                    "label": "alphanumeric",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": " Fathometer is used to measure?",
+            "answers": [
+                {
+                    "label": "Earthquakes",
+                    "value": 0
+                },
+                {
+                    "label": "Rainfall",
+                    "value": 0
+                },
+                {
+                    "label": "Sound intensity",
+                    "value": 0
+                },
+                {
+                    "label": "Ocean depth",
+                    "value": 1
+                }
+            ]
+        },{
+            "questionText": "The working principle of a washing machine is?",
+            "answers": [
+                {
+                    "label": "reverse osmosis",
+                    "value": 0
+                },
+                {
+                    "label": "diffusion",
+                    "value": 0
+                },
+                {
+                    "label": "centrifugation",
+                    "value": 1
+                },
+                {
+                    "label": "dialysis",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": "A computer cannot boot if it does not have the  ?",
+            "answers": [
+                {
+                    "label": " Loader",
+                    "value": 0
+                },
+                {
+                    "label": "Assembler",
+                    "value": 0
+                },
+                {
+                    "label": "Operating system",
+                    "value": 1
+                },
+                {
+                    "label": "Compiler",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": "Hydrogen bomb is based on the principle of  ?",
+            "answers": [
+                {
+                    "label": "nuclear fission",
+                    "value": 0
+                },
+                {
+                    "label": "nuclear fusion",
+                    "value": 1
+                },
+                {
+                    "label": "artificial radioactivity",
+                    "value": 0
+                },
+                {
+                    "label": "natural radioactivity",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": "The blue colour of the clear sky is due to?",
+            "answers": [
+                {
+                    "label": " Diffraction of light",
+                    "value": 0
+                },
+                {
+                    "label": "Dispersion of light",
+                    "value": 1
+                },
+                {
+                    "label": "Refraction of light",
+                    "value": 0
+                },
+                {
+                    "label": "Reflection of light",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": "Junk e-mail is also called?",
+            "answers": [
+                {
+                    "label": "Spam",
+                    "value": 1
+                },
+                {
+                    "label": "Spoof",
+                    "value": 0
+                },
+                {
+                    "label": "Spool",
+                    "value": 0
+                },
+                {
+                    "label": "Sniffer script",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": "Microsoft Office is an example of?",
+            "answers": [
+                {
+                    "label": "Closed source software",
+                    "value": 0
+                },
+                {
+                    "label": "Closed source software",
+                    "value": 0
+                },
+                {
+                    "label": "Horizontal market",
+                    "value": 1
+                },
+                {
+                    "label": "vertical market",
+                    "value": 0
+                }
+            ]
+        },{
+            "questionText": "Nuclear sizes are expressed in a unit named ?",
+            "answers": [
+                {
+                    "label": "Fermi",
+                    "value": 1
+                },
+                {
+                    "label": " Angstrom",
+                    "value": 0
+                },
+                {
+                    "label": "Newton",
+                    "value": 0
+                },
+                {
+                    "label": "Tesla",
+                    "value": 0
+                }
+            ]
         }
     ]
 }
